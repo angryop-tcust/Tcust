@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html style="background-color: dodgerblue;">
+    <head>
+    
+        <title>Example</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+
+    </head>
+    <body>
+
+       <p>Good morning , Today is 3/01</p>
+       <h2>Tcust work</h2>
+       <img src="img_girl.jpg" alt="tcust" style="width: 420px;height: 420px;">
+       <img src="\gg\1.jpg"  alt="tcust" style="width: 420px;height: 420px;">
+       <img src="\gg\2.jfif" class="rounded-circle" alt="Cinque Terre" width="420" height="420">
+       <img src="\gg\3.jfif" class="img-thumbnail" alt="Cinque Terre" alt="tcust" style="width: 420px; height: 420px;">
+
+    </body>
+</html>
